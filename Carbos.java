@@ -10,8 +10,8 @@ public class Carbos {
 
     /**
      * Constructor de la clase
-     * @param carbohidratos
-     * @param kcal
+     * @param carbohidratos Nombre de los carbohidratos
+     * @param kcal Contenido de calorias
      */
     Carbos(String carbohidratos, String kcal){
         this.carbohidratos = carbohidratos;
