@@ -10,8 +10,8 @@ public class Proteina {
 
     /**
      * Constructor de la clase
-     * @param prote
-     * @param kcal
+     * @param prote Nombre de la proteina
+     * @param kcal Contenido calorico
      */
     Proteina(String prote, String kcal){
         this.prote = prote;
